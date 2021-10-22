@@ -1,0 +1,13 @@
+
+.content {
+    max-width: 500px;
+    margin: auto
+}
+
+#square {
+    /* margin: auto; */
+    height: 250px;
+    width: 250px;
+    background-color: rgb(51, 62, 223);
+}
+
